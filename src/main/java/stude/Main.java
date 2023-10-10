@@ -1,20 +1,17 @@
 package stude;
 
-import  java.util.Scanner;
+import java.util.Scanner;
 import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        System.out.println(a);
-        int a = 5;
-    }
-        /*Scanner number = new Scanner(System.in);
+        Scanner number = new Scanner(System.in);
         System.out.println("Введите любое целое число ...");
         if (number.hasNextInt()) {
-          int i = number.nextInt();
+            int i = number.nextInt();
             System.out.println("Введенное вами число является целым!");
         } else {
             System.out.println("Введенное вами число не является целым!");
         }
-    }*/
+    }
 }
