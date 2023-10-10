@@ -11,7 +11,7 @@ public class Main {
             int i = number.nextInt();
             System.out.println("Введенное вами чэисло является целым!");
         } else {
-            System.out.println("Введенное вами число не является це'''лым!");
+            System.out.println("Введенное вами число не является целым!");
         }
     }
 }
