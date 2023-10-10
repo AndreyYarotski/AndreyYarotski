@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Введите любое целое число ...");
         if (number.hasNextInt()) {
             int i = number.nextInt();
-            System.out.println("Введенное вами число является целым!");
+            System.out.println("Введенное вами чэисло является целым!");
         } else {
             System.out.println("Введенное вами число не является це'''лым!");
         }
